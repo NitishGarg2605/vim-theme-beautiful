@@ -1,0 +1,10 @@
+step 1->use command vim~/.vimrc
+
+1 :syntax on
+2 set number
+3 set autoindent
+4 filetype plugin indent on
+5 set  tabstop=4 softtabstop=4
+6 set shiftwidth=4
+7 :se mouse+=a
+8 colorscheme murphy
